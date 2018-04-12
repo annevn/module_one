@@ -1,6 +1,4 @@
-name: Module One
-description: Custom module description here
-package: Custom
+name: Module name
 type: module
-version: 1.0
+description: 'A description of what your module does.'
 core: 8.x
